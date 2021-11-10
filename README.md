@@ -5,15 +5,15 @@
 
 # Sample visual essay
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+This visual essay demonstrates the project proposal for Mikayla Wilhelm pertaining to HUM 234L.
 
 # Basic usage
 
 ## Image
+<param ve-image 
+       label="Watershed Nature Center" 
+       description="Edwardsville Watershed in Winter" 
 
-       label="Watershed Nature Center"
        url="https://images.squarespace-cdn.com/content/v1/5669e37acbced60d962dcaff/1452795603787-8GFKZKTMUOH2IJF16NJP/centerinwinter.jpg">
 
 ## Map
