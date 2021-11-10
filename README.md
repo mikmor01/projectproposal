@@ -13,8 +13,8 @@ This visual essay demonstrates the project proposal for Mikayla Wilhelm pertaini
 <param ve-image 
        label="Watershed Nature Center" 
        description="Edwardsville Watershed in Winter" 
-
        url="https://images.squarespace-cdn.com/content/v1/5669e37acbced60d962dcaff/1452795603787-8GFKZKTMUOH2IJF16NJP/centerinwinter.jpg">
+       <param ve-image fit="cover" manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c"
 
 ## Map
 
@@ -22,13 +22,6 @@ The work has been in the collection of the Mauritshuis in The Hague since 1902 a
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
 <https://images.squarespace-cdn.com/content/v1/5669e37acbced60d962dcaff/1472322808065-EFUHR5B63KXXW1OTP22V/Watershed+Trail+Map?format=1000w>
 
-## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
 
 # References
 
