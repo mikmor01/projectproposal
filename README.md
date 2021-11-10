@@ -1,19 +1,7 @@
 # projectproposal
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
-<param ve-config 
-       title="Girl with a Pearl Earring"
-       author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
-       layout="vertical">
 
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
 
 # Sample visual essay
 
@@ -25,7 +13,6 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## Image
 
-
        label="Watershed Nature Center"
        url="https://images.squarespace-cdn.com/content/v1/5669e37acbced60d962dcaff/1452795603787-8GFKZKTMUOH2IJF16NJP/centerinwinter.jpg">
 
@@ -33,7 +20,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+<https://images.squarespace-cdn.com/content/v1/5669e37acbced60d962dcaff/1472322808065-EFUHR5B63KXXW1OTP22V/Watershed+Trail+Map?format=1000w>
 
 ## Multiple viewers
 
